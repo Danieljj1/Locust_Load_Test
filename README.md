@@ -12,10 +12,10 @@ A performance testing dashboard that visualizes load test results from Locust. U
 
 ## Tech Stack
 
-- **Locust** — load generation and test execution
-- **Streamlit** — interactive dashboard UI
+- **Locust** - load generation and test execution
+- **Streamlit** - interactive dashboard UI
 - **pandas** — data processing and CSV parsing
-- **matplotlib** — chart rendering
+- **matplotlib** - chart rendering
 
 ## Setup
 
